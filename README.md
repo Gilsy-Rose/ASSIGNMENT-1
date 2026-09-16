@@ -1,5 +1,5 @@
 # ASSIGNMENT-1 DATA EXPLORATION
-**DATA EXPLORATION
+**"DATA EXPLORATION"-
 This assignment focuses on basic Excel data analysis and commonly used Excel functions. The dataset contains product information such as Product ID, Price, and Quantity.
 
 Topics Covered
